@@ -1,5 +1,5 @@
 # What is Socks5 proxy?
-![Socks5 proxy](https://nordvpn.com/wp-content/uploads/blog-socks5-proxy@2x.png)
+![Socks5 proxy](https://github.com/IPXProxy/Types-of-proxy-servers/blob/main/Types-of-proxy-servers/socks5%20proxy1.png)
 
 **Before you learn about Socks5 proxy, you need to know what a proxy server is and how it works:** 
 <h3>What is a proxy server?</h3>
