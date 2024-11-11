@@ -1,5 +1,5 @@
 # How to get proxy ip address using cmd?
-![proxy IP](https://github.com/IPXProxy/Types-of-proxy-servers/blob/main/Types-of-proxy-servers/Can%20my%20IP%20be%20tracked%20if%20I%20use%20a%20proxy1.png)
+![proxy IP](https://github.com/IPXProxy/Types-of-proxy-servers/blob/main/Types-of-proxy-servers/How%20to%20get%20proxy%20ip%20address%20using%20cmd1.png)
 
 An IP address is a unique string of characters that helps identify any device on the network. Proxy IP is often a common solution to enhance online security and protect privacy. However, to better use proxy IP, you first need to learn to find its IP address. So, how to get proxy ip address using cmd? This article provides a detailed guide using the Windows 10 system as an example.
 <h3>The Importance of Getting proxy IP addresses</h3>
@@ -31,6 +31,8 @@ Through the above steps, you can use cmd to get the proxy IP address. If you fin
 2. Click Proxy below.
 3. On the page that is displayed, locate the Manually set proxy and click the Use Proxy Server button.
 4. Enter the proxy IP address and port number, and click Save.
+
+   ![proxy IP](https://github.com/IPXProxy/Types-of-proxy-servers/blob/main/Types-of-proxy-servers/How%20to%20get%20proxy%20ip%20address%20using%20cmd2.png)
 
 <h3>conclusion</h3>
 With these steps, you should know how to go about getting a proxy IP address. To get a proxy IP address, using CMD is an important way. Of course, you can also use the control panel to find the address.
