@@ -28,6 +28,6 @@ Once you have finished setting up Tinder proxies, you can open the Tinder app an
 
 Now you can browse a wide variety of profiles on Tinder and interact with the people you want to meet, just like you always have. Now that the barriers of geography have been broken down, users will have the opportunity to meet more people from different backgrounds and cultures, enriching their social experience.
 
-![proxy IP](https://github.com/IPXProxy/Types-of-proxy-servers/blob/main/Types-of-proxy-servers/Tinder%20proxies2.png)
+![proxy IP](https://github.com/IPXProxy/Types-of-proxy-servers/blob/main/Types-of-proxy-servers/Tinder%20proxies2.jpg)
 <h3>Conclusion</h3>
 Using Tinder proxies breaks the geographical limitations and allows us to communicate with people from other regions, greatly broadening the scope of dating. However, when using Tinder proxies, you should pay attention to choosing a quality proxy service provider, and at the same time, you should abide by the rules of Tinder in order to better enjoy the fun of dating.
